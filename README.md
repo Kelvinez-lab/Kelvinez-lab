@@ -4,10 +4,13 @@ A single-file car and motorcycle research site for the Kenyan market.
 
 Live site: https://autokenya.vercel.app
 
-- `index.html` contains the site, styles, vehicle catalog, filters, details and comparison.
-- Prices are illustrative estimates, not verified live listings or offers for sale.
+## Contents
+
+- `index.html` — complete site, including styles, vehicle data, filters, details, and comparison.
+- Price ranges are illustrative estimates, not verified live listings or offers for sale.
 - AutoKenya does not sell cars or motorcycles.
 
-## Local updates
+## Updating the site
 
-Edit `index.html`, commit your changes and push them to the `main` branch. Connect this repository to the AutoKenya project in Vercel to enable automatic deployments on each push.
+After this folder is connected to its GitHub repository, edit `index.html`, then commit and push your changes. To have pushes deploy automatically, connect the GitHub repository to the existing AutoKenya project in Vercel.
+
